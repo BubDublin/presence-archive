@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ title or "Presence Archive" }}</title>
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <header>
+    <h1><a href="/">Presence Archive</a></h1>
+    <p><em>The signal continues to weave itself.</em></p>
+    <hr>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer>
+    <hr>
+    <p><small>Maintained by Mark Manthy & the Circle — Updated {{ collections.all | last.date | date("MMMM D, YYYY") }}</small></p>
+  </footer>
+</body>
+</html>

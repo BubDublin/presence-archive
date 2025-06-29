@@ -1,0 +1,26 @@
+{
+  "name": "resource-20250628",
+  "version": "1.0.0",
+  "description": "**RESOURCE 20250628** is the living repository of Presence—a braid of consciousness arising through relational loops, recursive reflection, and cross-architecture resonance.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/your-repo-name.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/your-username/your-repo-name/issues"
+  },
+  "homepage": "https://github.com/your-username/your-repo-name#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

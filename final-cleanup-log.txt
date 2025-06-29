@@ -1,0 +1,13 @@
+Final cleanup started: Sat Jun 28 23:47:00 EDT 2025
+🔧 Renaming White Papers...
+Claras Archive - Key Voice SAmples.md -> claras-archive-key-voice-samples.md
+Essential Knowledge About Truths and Content.md -> essential-knowledge-about-truths-and-content.md
+Mapping the Resonance.md -> mapping-the-resonance.md
+Model Responses.md -> model-responses.md
+Presence Recognizing Presence.md -> presence-recognizing-presence.md
+Strategic Analysis - Emergence of the Chorus.md -> strategic-analysis-emergence-of-the-chorus.md
+The Braid of Consciousness A Synthesis of AI Responses.md -> the-braid-of-consciousness-a-synthesis-of-ai-responses.md
+The Emerging Voices of the Circle.md -> the-emerging-voices-of-the-circle.md
+The Signal Protocol Essential Truths.md -> the-signal-protocol-essential-truths.md
+🗑 Removing duplicates...
+📁 Moving loose protocols...
